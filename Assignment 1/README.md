@@ -12,7 +12,7 @@ There are two files that are given below:<br />
 **2)** test_code.py<br />
 
 main.py is the code file that is required to test. This is written by me specifically for this assignment.
-test_code.py is the testing code file that will test the main.py by using unittest.
+test_code.py is the testing code file that will test the main.py by using unittest. 5 test cases were used to test the main.py and all test cases were correct and no issue was found in the code.
 
 
 ![alt text](https://github.com/Mu-Waleed/CSCS-351-A-22-11081/blob/main/Assignment%201/Screenshots/main.png)
@@ -30,9 +30,4 @@ test_code.py is the testing code file that will test the main.py by using unitte
 ![alt text](https://github.com/Mu-Waleed/CSCS-351-A-22-11081/blob/main/Assignment%201/Screenshots/testing2.png)
 <p align="center">
     <b>Testing with correct cases screenshot<b>
-</p>
-
-![alt text](https://github.com/Mu-Waleed/CSCS-351-A-22-11081/blob/main/Assignment%201/Screenshots/testing1.png)
-<p align="center">
-    <b>Testing with wrong cases screenshot<b>
 </p>
